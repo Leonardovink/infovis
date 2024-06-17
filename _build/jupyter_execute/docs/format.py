@@ -3,9 +3,9 @@
 
 # # Your Data Story Title
 # 
-# Student names: FIRST_STUDENT, SECOND_STUDENT, THIRD_STUDENT, FORTH_STUDENT
+# Student names: Leonardo Vinkestijn, SECOND_STUDENT, THIRD_STUDENT, FORTH_STUDENT
 # 
-# Team number: YOUR_REGISTERED_TEAM_NUMBER_ON_CANVAS
+# Team number: I2
 
 # In[1]:
 
