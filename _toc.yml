@@ -4,4 +4,4 @@
 format: jb-book
 root: docs/home
 chapters:
-- file: docs/jupyter_execute/format.ipynb
+- file: docs/notebook
